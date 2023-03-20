@@ -1,1 +1,1 @@
-# Crop-Disease-Detection
+# Crop Leaf Disease Detection
