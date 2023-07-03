@@ -18,6 +18,5 @@ The dataset contains a total of 38 classes of plant disease and 1 class of backg
 
 # Useful links
 
-1. The Google Colab Notebook can be viewed [here](Crop_leaf_disease_detection.ipynb).
-2. Here is the presentation link  [here](https://drive.google.com/file/d/1ZIUygRHfAbFmDSSMAJH9aLJpXd47_ag6/view?usp=share_link).
+1. The Google Colab Notebook can be viewed [here](Crop_leaf_disease_detectio)
 
